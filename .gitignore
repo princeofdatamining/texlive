@@ -1,0 +1,16 @@
+.*
+*.aux
+*.dvi
+*.idv
+*.lg
+*.log
+*.out
+*.tmp
+*.toc
+*.xref*
+*.4*
+/texlive-en/texlive-en.html
+/texlive-en/texlive-en.css
+/texlive-en/texlive-en.pdf
+/texlive-zh-cn/texlive-zh-cn.pdf
+
